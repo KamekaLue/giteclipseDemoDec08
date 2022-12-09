@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kbrooks
+ *
+ */
+module EclipseGitDemo {
+}
